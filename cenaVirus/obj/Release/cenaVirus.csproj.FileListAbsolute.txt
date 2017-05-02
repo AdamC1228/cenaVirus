@@ -1,0 +1,10 @@
+C:\Users\test\Desktop\cenaVirus\cenaVirus\bin\Release\cena.wav
+C:\Users\test\Desktop\cenaVirus\cenaVirus\bin\Release\souls.wav
+C:\Users\test\Desktop\cenaVirus\cenaVirus\bin\Release\cenaVirus.exe.config
+C:\Users\test\Desktop\cenaVirus\cenaVirus\bin\Release\cenaVirus.exe
+C:\Users\test\Desktop\cenaVirus\cenaVirus\bin\Release\cenaVirus.pdb
+C:\Users\test\Desktop\cenaVirus\cenaVirus\obj\Release\cenaVirus.Form1.resources
+C:\Users\test\Desktop\cenaVirus\cenaVirus\obj\Release\cenaVirus.Properties.Resources.resources
+C:\Users\test\Desktop\cenaVirus\cenaVirus\obj\Release\cenaVirus.csproj.GenerateResource.Cache
+C:\Users\test\Desktop\cenaVirus\cenaVirus\obj\Release\cenaVirus.exe
+C:\Users\test\Desktop\cenaVirus\cenaVirus\obj\Release\cenaVirus.pdb
